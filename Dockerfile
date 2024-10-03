@@ -1,1 +1,1 @@
-FROM williee7/onlinenodejs:v4
+FROM williee7/onlinenodejs:v2
